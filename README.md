@@ -17,7 +17,7 @@ Video Tutorial: https://drive.google.com/file/d/1usHEgwC7ZXtCoWyH0vDV7EgU9nhm6KP
 
 # Example
 
-![ScreenShot of Current Active Webpage 2](./assets/challenge.png)
+![ScreenShot of Current Active Webpage 2](/assets/challenge.png)
 
 # Tests
 
